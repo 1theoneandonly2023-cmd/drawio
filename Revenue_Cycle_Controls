@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="05V1FKeF0wOcPagJft-i-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="&lt;b&gt;start&lt;/b&gt;" vertex="1">
+        <mxCell id="05V1FKeF0wOcPagJft-i-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;b&gt;start&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="130" x="110" y="280" as="geometry" />
         </mxCell>
       </root>
