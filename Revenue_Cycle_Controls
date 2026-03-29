@@ -113,9 +113,6 @@
         <mxCell id="V0tk60ERjxjFtu8GP8rc-89" parent="V0tk60ERjxjFtu8GP8rc-23" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;direction=north;" value="continued page 2&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="150" x="1310" y="115" as="geometry" />
         </mxCell>
-        <mxCell id="V0tk60ERjxjFtu8GP8rc-24" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="billing/accounts receivable" vertex="1">
-          <mxGeometry height="250" width="1760" x="-730" y="795" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -124,6 +121,26 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cjof8g2PILTGvDGRCEEj-1" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="warehouse department&amp;nbsp;" vertex="1">
+          <mxGeometry height="210" width="1760" x="60" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cjof8g2PILTGvDGRCEEj-14" edge="1" parent="cjof8g2PILTGvDGRCEEj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cjof8g2PILTGvDGRCEEj-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="35" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cjof8g2PILTGvDGRCEEj-18" edge="1" parent="cjof8g2PILTGvDGRCEEj-1" source="cjof8g2PILTGvDGRCEEj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cjof8g2PILTGvDGRCEEj-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjof8g2PILTGvDGRCEEj-16" parent="cjof8g2PILTGvDGRCEEj-1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;direction=north;" value="continued page 2&amp;nbsp;" vertex="1">
+          <mxGeometry height="50" width="150" x="70" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="cjof8g2PILTGvDGRCEEj-17" parent="cjof8g2PILTGvDGRCEEj-1" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;align=center;" value="&lt;div style=&quot;line-height: 380%;&quot;&gt;goods dispatched to customer&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="265" x="315" y="5" as="geometry" />
+        </mxCell>
+        <mxCell id="uaPs_HmKC7L7c4tYGd8a-1" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="billing/accounts receivable" vertex="1">
+          <mxGeometry height="250" width="1760" x="60" y="320" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
