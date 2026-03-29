@@ -159,8 +159,20 @@
         <mxCell id="ALGm5ygii2ipX5wd-1rX-4" parent="uaPs_HmKC7L7c4tYGd8a-1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Payment Received from Customer" vertex="1">
           <mxGeometry height="70" width="120" x="580" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="ALGm5ygii2ipX5wd-1rX-9" edge="1" parent="uaPs_HmKC7L7c4tYGd8a-1" source="ALGm5ygii2ipX5wd-1rX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ALGm5ygii2ipX5wd-1rX-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ALGm5ygii2ipX5wd-1rX-6" parent="uaPs_HmKC7L7c4tYGd8a-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Remittance Advice Recorded" vertex="1">
           <mxGeometry height="80" width="120" x="780" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ALGm5ygii2ipX5wd-1rX-11" edge="1" parent="uaPs_HmKC7L7c4tYGd8a-1" source="ALGm5ygii2ipX5wd-1rX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ALGm5ygii2ipX5wd-1rX-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ALGm5ygii2ipX5wd-1rX-8" parent="uaPs_HmKC7L7c4tYGd8a-1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Cash Posted to Accounts Receivable" vertex="1">
+          <mxGeometry height="70" width="230" x="980" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ALGm5ygii2ipX5wd-1rX-10" parent="uaPs_HmKC7L7c4tYGd8a-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="end" vertex="1">
+          <mxGeometry height="60" width="100" x="1270" y="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
