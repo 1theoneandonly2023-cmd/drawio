@@ -64,6 +64,31 @@
         <mxCell id="V0tk60ERjxjFtu8GP8rc-23" parent="V0tk60ERjxjFtu8GP8rc-21" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="warehouse department&amp;nbsp;" vertex="1">
           <mxGeometry height="335" width="1760" y="365" as="geometry" />
         </mxCell>
+        <mxCell id="V0tk60ERjxjFtu8GP8rc-58" edge="1" parent="V0tk60ERjxjFtu8GP8rc-23" source="V0tk60ERjxjFtu8GP8rc-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="V0tk60ERjxjFtu8GP8rc-57" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V0tk60ERjxjFtu8GP8rc-56" parent="V0tk60ERjxjFtu8GP8rc-23" style="rounded=0;whiteSpace=wrap;html=1;" value="sales order received by warehouse" vertex="1">
+          <mxGeometry height="60" width="200" x="30" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="V0tk60ERjxjFtu8GP8rc-60" edge="1" parent="V0tk60ERjxjFtu8GP8rc-23" source="V0tk60ERjxjFtu8GP8rc-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V0tk60ERjxjFtu8GP8rc-63" edge="1" parent="V0tk60ERjxjFtu8GP8rc-23" source="V0tk60ERjxjFtu8GP8rc-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429.9999999999998" y="304.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V0tk60ERjxjFtu8GP8rc-57" parent="V0tk60ERjxjFtu8GP8rc-23" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="inventory available?&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="200" x="330" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="V0tk60ERjxjFtu8GP8rc-61" parent="V0tk60ERjxjFtu8GP8rc-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes - in stock&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="90" x="580" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="V0tk60ERjxjFtu8GP8rc-64" parent="V0tk60ERjxjFtu8GP8rc-23" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=90;" value="no - out of stock" vertex="1">
+          <mxGeometry height="30" width="90" x="395" y="235" as="geometry" />
+        </mxCell>
         <mxCell id="V0tk60ERjxjFtu8GP8rc-24" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="billing/accounts receivable" vertex="1">
           <mxGeometry height="250" width="1760" x="-730" y="740" as="geometry" />
         </mxCell>
