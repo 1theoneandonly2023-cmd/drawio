@@ -141,6 +141,9 @@
         <mxCell id="uaPs_HmKC7L7c4tYGd8a-1" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="billing/accounts receivable" vertex="1">
           <mxGeometry height="250" width="1760" x="60" y="320" as="geometry" />
         </mxCell>
+        <mxCell id="ALGm5ygii2ipX5wd-1rX-1" parent="uaPs_HmKC7L7c4tYGd8a-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Dispatch Confirmation Received" vertex="1">
+          <mxGeometry height="75" width="220" x="30" y="87.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
