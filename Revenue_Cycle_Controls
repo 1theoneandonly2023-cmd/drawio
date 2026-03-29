@@ -141,8 +141,26 @@
         <mxCell id="uaPs_HmKC7L7c4tYGd8a-1" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="billing/accounts receivable" vertex="1">
           <mxGeometry height="250" width="1760" x="60" y="320" as="geometry" />
         </mxCell>
+        <mxCell id="ALGm5ygii2ipX5wd-1rX-3" edge="1" parent="uaPs_HmKC7L7c4tYGd8a-1" source="ALGm5ygii2ipX5wd-1rX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ALGm5ygii2ipX5wd-1rX-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ALGm5ygii2ipX5wd-1rX-1" parent="uaPs_HmKC7L7c4tYGd8a-1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Dispatch Confirmation Received" vertex="1">
           <mxGeometry height="75" width="220" x="30" y="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ALGm5ygii2ipX5wd-1rX-5" edge="1" parent="uaPs_HmKC7L7c4tYGd8a-1" source="ALGm5ygii2ipX5wd-1rX-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ALGm5ygii2ipX5wd-1rX-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ALGm5ygii2ipX5wd-1rX-2" parent="uaPs_HmKC7L7c4tYGd8a-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Invoice Generated &amp;amp; Sent to Customer" vertex="1">
+          <mxGeometry height="80" width="120" x="380" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ALGm5ygii2ipX5wd-1rX-7" edge="1" parent="uaPs_HmKC7L7c4tYGd8a-1" source="ALGm5ygii2ipX5wd-1rX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ALGm5ygii2ipX5wd-1rX-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ALGm5ygii2ipX5wd-1rX-4" parent="uaPs_HmKC7L7c4tYGd8a-1" style="whiteSpace=wrap;html=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Payment Received from Customer" vertex="1">
+          <mxGeometry height="70" width="120" x="580" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ALGm5ygii2ipX5wd-1rX-6" parent="uaPs_HmKC7L7c4tYGd8a-1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Remittance Advice Recorded" vertex="1">
+          <mxGeometry height="80" width="120" x="780" y="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
