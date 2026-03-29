@@ -107,6 +107,9 @@
         <mxCell id="V0tk60ERjxjFtu8GP8rc-72" parent="V0tk60ERjxjFtu8GP8rc-23" style="whiteSpace=wrap;html=1;" value="shipping authorization" vertex="1">
           <mxGeometry height="60" width="150" x="1110" y="115" as="geometry" />
         </mxCell>
+        <mxCell id="V0tk60ERjxjFtu8GP8rc-89" parent="V0tk60ERjxjFtu8GP8rc-23" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="1155" y="205" as="geometry" />
+        </mxCell>
         <mxCell id="V0tk60ERjxjFtu8GP8rc-24" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="billing/accounts receivable" vertex="1">
           <mxGeometry height="250" width="1760" x="-730" y="795" as="geometry" />
         </mxCell>
