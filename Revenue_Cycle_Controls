@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V0tk60ERjxjFtu8GP8rc-21" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" value="Kissena Bakery — Revenue Cycle (Order-to-Cash)" vertex="1">
-          <mxGeometry height="755" width="1760" x="-730" y="40" as="geometry" />
+          <mxGeometry height="1145" width="1760" x="-730" y="40" as="geometry" />
         </mxCell>
         <mxCell id="V0tk60ERjxjFtu8GP8rc-22" parent="V0tk60ERjxjFtu8GP8rc-21" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="sales department" vertex="1">
           <mxGeometry height="345" width="1760" y="20" as="geometry" />
@@ -113,6 +113,9 @@
         <mxCell id="V0tk60ERjxjFtu8GP8rc-89" parent="V0tk60ERjxjFtu8GP8rc-23" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.5;direction=north;" value="continued page 2&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="150" x="1600" y="115" as="geometry" />
         </mxCell>
+        <mxCell id="qUEn5e195i8ZFtHKaj2z-17" parent="V0tk60ERjxjFtu8GP8rc-21" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="Billing/Accounts receivable" vertex="1">
+          <mxGeometry height="390" width="1760" y="755" as="geometry" />
+        </mxCell>
         <mxCell id="di7bYe6k3pE4PkaOuCQ0-2" edge="1" parent="1" source="di7bYe6k3pE4PkaOuCQ0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="V0tk60ERjxjFtu8GP8rc-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -123,10 +126,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tj-ktyxhPBhJqgdjsSxd" name="Page-2">
-    <mxGraphModel dx="1099" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1868" dy="2166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BgYYKWw7n1sxKjoh3IeP-6" edge="1" parent="1" source="cjof8g2PILTGvDGRCEEj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BgYYKWw7n1sxKjoh3IeP-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cjof8g2PILTGvDGRCEEj-1" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="warehouse department&amp;nbsp;" vertex="1">
           <mxGeometry height="210" width="1760" x="60" y="110" as="geometry" />
         </mxCell>
@@ -179,6 +185,9 @@
         </mxCell>
         <mxCell id="ALGm5ygii2ipX5wd-1rX-10" parent="uaPs_HmKC7L7c4tYGd8a-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="end" vertex="1">
           <mxGeometry height="60" width="100" x="1270" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="BgYYKWw7n1sxKjoh3IeP-1" parent="1" style="swimlane;startSize=20;horizontal=0;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="sales department" vertex="1">
+          <mxGeometry height="210" width="1760" x="60" y="-100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
